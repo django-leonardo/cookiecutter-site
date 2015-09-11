@@ -1,7 +1,7 @@
 cookiecutter-leonardo-site
 ============================
 
-A cookiecutter_ template for Leonardo Module.
+A cookiecutter_ template for Leonardo Site.
 
 .. _cookiecutter: https://github.com/audreyr/cookiecutter
 
