@@ -13,7 +13,6 @@ SITE_NAME = '{{ cookiecutter.project_name }}'
 # redirect migrations
 MIGRATION_MODULES = {
     'web': '{{ cookiecutter.repo_name }}.migrations.web',
-    'elephantblog': '{{ cookiecutter.repo_name }}.migrations.blog',
     'media': '{{ cookiecutter.repo_name }}.migrations.media',
     'leonardo_module_links': '{{ cookiecutter.repo_name }}.migrations.links',
     'team': '{{ cookiecutter.repo_name }}.migrations.team',
